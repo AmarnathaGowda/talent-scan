@@ -10,4 +10,6 @@ google-cloud-storage
 
 
 # pip install torch  --extra-index-url https://download.pytorch.org/whl/cpu
-#pip3 install torch torchvision torchaudio
+
+# for Mac CPU
+#pip install torch torchvision torchaudio
